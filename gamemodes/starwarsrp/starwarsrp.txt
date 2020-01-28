@@ -1,0 +1,12 @@
+"starwarsrp"
+{
+	"base"		"sandbox"
+	"title"		"StarWarsRP"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+	
+	}
+}
