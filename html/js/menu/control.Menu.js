@@ -98,6 +98,9 @@ function MenuController( $scope, $rootScope )
 	$rootScope.Language = 'en';
 	lua.Run( "UpdateLanguages()" );
 
+	// Set gamemode to StarWarsRP for backgrounds
+	lua.Run("RunConsoleCommand(\"gamemode\", \"starwarsrp\")")
+
 	//
 	// Game Mounts
 	//
