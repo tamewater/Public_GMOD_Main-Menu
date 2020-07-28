@@ -13,6 +13,26 @@ App.config(function ( $routeProvider, $locationProvider )
 	$routeProvider.when('/demos/', { templateUrl: 'template/demos.html' } );
 	$routeProvider.when('/saves/', { templateUrl: 'template/saves.html' } );
 	$routeProvider.when('/tamewatermenu/', { templateUrl: 'template/tamewatermenu.html' } );
+	$routeProvider.when('/tamewateroptions/', { templateUrl: 'template/tamewateroptions.html' } );
+} );
+
+// This is a bit silly
+App.filter( 'gamemodeFilter', function() {
+	return function( inputs, searchText ) {
+		if ( !searchText ) return inputs;
+		searchText = searchText.toLowerCase();
+
+		var output = [];
+		angular.forEach( inputs, function( input ) {
+			var found = false;
+			
+			if ( input.name.toLowerCase().indexOf( searchText ) != -1 ) found = true;
+			if ( !found && input.info && input.info.title.toLowerCase().indexOf( searchText ) != -1 ) found = true;
+			
+			if ( found ) output.push( input ); 
+		} );
+		return output;
+	};
 } );
 
 function UpdateDigest( scope, timeout )
