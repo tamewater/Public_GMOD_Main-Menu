@@ -15,6 +15,7 @@ App.config(function ( $routeProvider, $locationProvider )
 	$routeProvider.when('/dupes/', { templateUrl: 'template/dupes.html' } );
 	$routeProvider.when('/tamewatermenu/', { templateUrl: 'template/tamewatermenu.html' } );
 	$routeProvider.when('/tamewateroptions/', { templateUrl: 'template/tamewateroptions.html' } );
+	$routeProvider.when('/tamewaterservers/', { templateUrl: 'template/tamewaterservers.html' } );
 } );
 
 // This is a bit silly
