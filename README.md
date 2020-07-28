@@ -25,8 +25,8 @@ Second way (More difficult but cleaner):
 5. Done! All files to do with this main menu are now removed and Garry's Mod should be back to the way it was (Unless you installed other custom content to those folders of course. In that case, they're gone).
 
 ## Showcase
-![Showcase Image 1](https://i.gyazo.com/3fcc301e5391d600ef1b3eeef44d0256.jpg)
-![Showcase Image 2](https://i.gyazo.com/b6d084cef05ab27351551be44481384f.jpg)
+![Showcase Image 1](https://i.gyazo.com/0c75fba5cba0940182b77d32658378c6.jpg)
+![Showcase Image 2](https://i.gyazo.com/062714f8bcc51d1283de8876d6f19f1a.jpg)
 ![Showcase Image 3](https://i.gyazo.com/aae6d23a1c7641d15c808c5862e2efc2.png)
 ![Showcase Image 4](https://i.gyazo.com/51b297df66b81377314db24f7278bd81.jpg)
 ![Showcase Image 5](https://i.gyazo.com/e884268cd50c3722390fa697bb278ed8.jpg)
