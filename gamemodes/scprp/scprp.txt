@@ -1,0 +1,12 @@
+"scprp"
+{
+	"base"		"sandbox"
+	"title"		"SCPRP"
+	"maps"		""
+	"menusystem"	"1"
+
+	"settings"
+	{
+	
+	}
+}
