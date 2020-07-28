@@ -1,7 +1,7 @@
 # Custom Main Menu for Garry's Mod
 
 ## Installation
-1. Download. Click the green "Clone or download" button and click "Download ZIP"
+1. Download. Click the green "Code" button and click "Download ZIP"
 2. Extract the files from the .zip you downloaded.
 3. Right click Garry's Mod in your steam library and click "Properties..."
 4. Click the "Local files" tab and then click "Browse local files..."
