@@ -35,7 +35,7 @@ Second way (More difficult but cleaner):
 ### License
 This project uses the GNU Lesser General Public License v3.0
 
-### DISCLAMER:
+### DISCLAIMER:
 
 This main menu is an unofficial resource and is in no way linked to Lucasfilm ltd, the Walt Disney company, Electronic Arts inc. or Twentieth Century Fox. The "Star Wars" brand and all the intellectual content of this mod is based on the property of "The Walt Disney Company" and the use of which is exclusive for non-profit purpose.
 
